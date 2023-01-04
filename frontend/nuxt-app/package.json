@@ -12,5 +12,8 @@
     "@nuxtjs/tailwindcss": "^6.2.0",
     "nuxt": "3.0.0",
     "vitest": "^0.26.3"
+  },
+  "dependencies": {
+    "@nuxtjs/robots": "^3.0.0"
   }
 }
