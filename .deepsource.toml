@@ -5,10 +5,6 @@ name = "sql"
 enabled = true
 
 [[analyzers]]
-name = "test-coverage"
-enabled = true
-
-[[analyzers]]
 name = "csharp"
 enabled = true
 
@@ -21,4 +17,12 @@ enabled = true
 
 [[analyzers]]
 name = "secrets"
+enabled = true
+
+[[transformers]]
+name = "prettier"
+enabled = true
+
+[[transformers]]
+name = "dotnet-format"
 enabled = true
