@@ -1,5 +1,24 @@
 version = 1
 
 [[analyzers]]
+name = "sql"
+enabled = true
+
+[[analyzers]]
+name = "test-coverage"
+enabled = true
+
+[[analyzers]]
+name = "csharp"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  plugins = ["vue"]
+
+[[analyzers]]
 name = "secrets"
 enabled = true
