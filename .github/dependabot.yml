@@ -3,7 +3,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "yarn" # See documentation for possible values
+  - package-ecosystem: "npm" # See documentation for possible values
     directory: "/frontend/nuxt-app/" # Location of package manifests
     target-branch: "main"
     schedule:
