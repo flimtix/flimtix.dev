@@ -9,7 +9,7 @@ export default defineNuxtConfig({
 			],
 		},
 	},
-	modules: ["@nuxtjs/tailwindcss", "@nuxtjs/robots"],
+	modules: ["@nuxtjs/tailwindcss", "@nuxtjs/robots", "@nuxt/image-edge"],
 	typescript: {
 		strict: true,
 	},
