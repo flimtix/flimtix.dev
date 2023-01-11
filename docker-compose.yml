@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+    nuxt:
+        image: node:current-alpine
+        command: [sh, -c, "npm i && npm run dev"]
+        ports:
+            - "15000:3000"
+        working_dir: "/app"
+        tty: true
+        volumes:
+            - "./frontend/nuxt-app/:/app/"
+            - "/app/node_modules"
+        environment:
+            HOST: 0.0.0.0
+            PORT: 3000

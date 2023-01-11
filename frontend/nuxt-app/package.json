@@ -1,20 +1,20 @@
 {
-  "private": true,
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
-  },
-  "devDependencies": {
-    "@nuxt/image-edge": "^1.0.0-27840416.dc1ed65",
-    "@nuxt/test-utils": "^3.0.0",
-    "@nuxtjs/tailwindcss": "^6.2.0",
-    "nuxt": "3.0.0",
-    "vitest": "^0.26.3"
-  },
-  "dependencies": {
-    "@nuxtjs/robots": "^3.0.0"
-  }
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"devDependencies": {
+		"@nuxt/image-edge": "^1.0.0-27840416.dc1ed65",
+		"@nuxt/test-utils": "^3.0.0",
+		"@nuxtjs/tailwindcss": "^6.2.0",
+		"nuxt": "3.0.0",
+		"vitest": "^0.26.3"
+	},
+	"dependencies": {
+		"@nuxtjs/robots": "^3.0.0"
+	}
 }
