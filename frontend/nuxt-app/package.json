@@ -1,4 +1,7 @@
 {
+	"name": "flimtix.dev",
+	"version": "1.0.0",
+	"description": "Personal website, blogs and learning resources",
 	"private": true,
 	"scripts": {
 		"build": "nuxt build",
