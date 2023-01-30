@@ -1,0 +1,9 @@
+# Ignore files and directories that are not needed in production
+node_modules
+.nuxt
+.nitro
+.cache
+.output
+dist
+.gitignore
+README.md
