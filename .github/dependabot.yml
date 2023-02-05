@@ -3,20 +3,19 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/frontend/nuxt-app/" # Location of package manifests
-    target-branch: "main"
-    schedule:
-      interval: "weekly"
-      day: "friday"
-      time: "08:00"
-      timezone: "Europe/Zurich"
-    assignees:
-      - "21r8390"
-    commit-message:
-      prefix: "👷: "
-    labels:
-      - "nuxt"
-      - "dependencies"
-    open-pull-requests-limit: 5
-    
+    - package-ecosystem: 'npm' # See documentation for possible values
+      directory: '/frontend/nuxt-app/' # Location of package manifests
+      target-branch: 'main'
+      schedule:
+          interval: 'weekly'
+          day: 'friday'
+          time: '08:00'
+          timezone: 'Europe/Zurich'
+      assignees:
+          - '21r8390'
+      commit-message:
+          prefix: '⬆️: '
+      labels:
+          - 'nuxt'
+          - 'dependencies'
+      open-pull-requests-limit: 5
