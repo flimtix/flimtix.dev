@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-02-01)
+## 1.1.0 (2023-02-05)
 
 ### Added
 
@@ -21,12 +21,14 @@
 
 ### Fixed
 
+- 💚 : Dependabot with gitmoji &amp; changelog only on user commits [[32fc35e](https://github.com/21r8390/flimtix.dev/commit/32fc35e1f2e6d96d2f0039bf4242b293c8a6eda3)]
 - 💚 : Set Gitmoji inputs [[3cbedd5](https://github.com/21r8390/flimtix.dev/commit/3cbedd5f231cf9b6d0e844d7d671e373d62bbea1)]
 - 💚 : Added package.json metadata [[be30baf](https://github.com/21r8390/flimtix.dev/commit/be30baf6569285422fec4d907b10a4e24c04c7ec)]
 
 ### Miscellaneous
 
 -  Format code with prettier and dotnet-format ([#15](https://github.com/21r8390/flimtix.dev/issues/15)) [[79b9e0f](https://github.com/21r8390/flimtix.dev/commit/79b9e0f792d3db305d6a8d3fc08cc2ca42741aac)]
+- 📝 Update changelog [[017097f](https://github.com/21r8390/flimtix.dev/commit/017097f68fea1f41e9e1089927e1b7fd26ca53cc)]
 - 📝 Update changelog [[b4118f4](https://github.com/21r8390/flimtix.dev/commit/b4118f466342601bb162970621b46a89feb58a20)]
 -  👷: Auto-merge Dependabot [[3faaf67](https://github.com/21r8390/flimtix.dev/commit/3faaf6798c7fd084637d3a0eb266299237689f72)]
 - 🧱 : nuxt via docker compose and .dockerignore [[f83721d](https://github.com/21r8390/flimtix.dev/commit/f83721d87bbebb6e9d840d3636044a34e347affe)]
