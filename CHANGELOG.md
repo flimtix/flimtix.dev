@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-02-07)
+## 1.1.0 (2023-02-17)
 
 ### Added
 
@@ -9,6 +9,8 @@
 
 ### Changed
 
+- ⬆️ : Bump vitest from 0.28.3 to 0.28.5 in /frontend/nuxt-app [[4cf0fe6](https://github.com/21r8390/flimtix.dev/commit/4cf0fe66e6c0aaddb811010cd60b64c7b2ced5d1)]
+- ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[a96fc62](https://github.com/21r8390/flimtix.dev/commit/a96fc6240057b5cd8b812ffce0fcd73e4ee9b583)]
 - 🔧 : Added gitmoji preset node [[01530de](https://github.com/21r8390/flimtix.dev/commit/01530de516b931774a6753cb479ba1cd2a4524e3)]
 - 🔧 : Added prettier config [[23a7c7d](https://github.com/21r8390/flimtix.dev/commit/23a7c7d7fa33e7b3e3c4150b3a48da0f2e32a02a)]
 - ⬆️ : Updated npm packages [[925fa0b](https://github.com/21r8390/flimtix.dev/commit/925fa0b18ab9f5922ad0661b50e9f7ba302553b8)]
@@ -27,7 +29,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#25](https://github.com/21r8390/flimtix.dev/issues/25) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.2.0 [[9dc6994](https://github.com/21r8390/flimtix.dev/commit/9dc6994abc6065aa63e8bcab9cf9f2cc17140f8e)]
+-  Merge pull request [#27](https://github.com/21r8390/flimtix.dev/issues/27) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.28.5 [[3fcb1dd](https://github.com/21r8390/flimtix.dev/commit/3fcb1dd033ae0b5978e8fe14869b958bd4d9c0c7)]
 -  Merge pull request [#19](https://github.com/21r8390/flimtix.dev/issues/19) from 21r8390/deepsource-transform-08f415e9 [[e58819f](https://github.com/21r8390/flimtix.dev/commit/e58819fe5f6e7741cd7ce15f9fc4dbd5b19d9201)]
+- 📝 : Update changelog [[a903348](https://github.com/21r8390/flimtix.dev/commit/a9033488782547c63fd27fb82f13c7f459ba6360)]
 -  👷: Bump @nuxtjs/tailwindcss from 6.3.0 to 6.3.1 in /frontend/nuxt-app ([#17](https://github.com/21r8390/flimtix.dev/issues/17)) [[6163cd7](https://github.com/21r8390/flimtix.dev/commit/6163cd7e1685409f6f4b4f544e3a36e5ac546a40)]
 -  Format code with prettier and dotnet-format ([#18](https://github.com/21r8390/flimtix.dev/issues/18)) [[da917e8](https://github.com/21r8390/flimtix.dev/commit/da917e804bcd1467c91b99e2ec24f1434a6155de)]
 -  Format code with prettier and dotnet-format [[691820a](https://github.com/21r8390/flimtix.dev/commit/691820a223beb1d13808492bfdb890d6218f4ced)]
