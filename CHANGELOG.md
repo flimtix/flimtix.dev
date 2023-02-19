@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-02-17)
+## 1.1.0 (2023-02-19)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[9363460](https://github.com/21r8390/flimtix.dev/commit/936346082c402a9607054e8109c37d126aba25f6)]
 - ⬆️ : Bump vitest from 0.28.3 to 0.28.5 in /frontend/nuxt-app [[4cf0fe6](https://github.com/21r8390/flimtix.dev/commit/4cf0fe66e6c0aaddb811010cd60b64c7b2ced5d1)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[a96fc62](https://github.com/21r8390/flimtix.dev/commit/a96fc6240057b5cd8b812ffce0fcd73e4ee9b583)]
 - 🔧 : Added gitmoji preset node [[01530de](https://github.com/21r8390/flimtix.dev/commit/01530de516b931774a6753cb479ba1cd2a4524e3)]
@@ -29,8 +30,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#26](https://github.com/21r8390/flimtix.dev/issues/26) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.4.0 [[8c4028f](https://github.com/21r8390/flimtix.dev/commit/8c4028fee0585bdd221e876c921c7192884eba98)]
 -  Merge pull request [#25](https://github.com/21r8390/flimtix.dev/issues/25) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.2.0 [[9dc6994](https://github.com/21r8390/flimtix.dev/commit/9dc6994abc6065aa63e8bcab9cf9f2cc17140f8e)]
 -  Merge pull request [#27](https://github.com/21r8390/flimtix.dev/issues/27) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.28.5 [[3fcb1dd](https://github.com/21r8390/flimtix.dev/commit/3fcb1dd033ae0b5978e8fe14869b958bd4d9c0c7)]
+- 📝 : Update changelog [[fbd8dc8](https://github.com/21r8390/flimtix.dev/commit/fbd8dc875d4e8acd8910d98ccf32c22eed83528e)]
 -  Merge pull request [#19](https://github.com/21r8390/flimtix.dev/issues/19) from 21r8390/deepsource-transform-08f415e9 [[e58819f](https://github.com/21r8390/flimtix.dev/commit/e58819fe5f6e7741cd7ce15f9fc4dbd5b19d9201)]
 - 📝 : Update changelog [[a903348](https://github.com/21r8390/flimtix.dev/commit/a9033488782547c63fd27fb82f13c7f459ba6360)]
 -  👷: Bump @nuxtjs/tailwindcss from 6.3.0 to 6.3.1 in /frontend/nuxt-app ([#17](https://github.com/21r8390/flimtix.dev/issues/17)) [[6163cd7](https://github.com/21r8390/flimtix.dev/commit/6163cd7e1685409f6f4b4f544e3a36e5ac546a40)]
