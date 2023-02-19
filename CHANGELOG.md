@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump nuxt from 3.1.1 to 3.2.2 in /frontend/nuxt-app [[f51dc99](https://github.com/21r8390/flimtix.dev/commit/f51dc994df88e6bdf8a28603e0be7ad83ed6fc4f)]
 - ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[9363460](https://github.com/21r8390/flimtix.dev/commit/936346082c402a9607054e8109c37d126aba25f6)]
 - ⬆️ : Bump vitest from 0.28.3 to 0.28.5 in /frontend/nuxt-app [[4cf0fe6](https://github.com/21r8390/flimtix.dev/commit/4cf0fe66e6c0aaddb811010cd60b64c7b2ced5d1)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[a96fc62](https://github.com/21r8390/flimtix.dev/commit/a96fc6240057b5cd8b812ffce0fcd73e4ee9b583)]
@@ -30,7 +31,9 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#30](https://github.com/21r8390/flimtix.dev/issues/30) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.2.2 [[5c0e7b0](https://github.com/21r8390/flimtix.dev/commit/5c0e7b0ac5d186270f5ef393417c549a5e45300c)]
 -  Merge pull request [#26](https://github.com/21r8390/flimtix.dev/issues/26) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.4.0 [[8c4028f](https://github.com/21r8390/flimtix.dev/commit/8c4028fee0585bdd221e876c921c7192884eba98)]
+- 📝 : Update changelog [[a8c5a2d](https://github.com/21r8390/flimtix.dev/commit/a8c5a2de0edb2c96dc4fd4996e2e91bb4424e5d5)]
 -  Merge pull request [#25](https://github.com/21r8390/flimtix.dev/issues/25) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.2.0 [[9dc6994](https://github.com/21r8390/flimtix.dev/commit/9dc6994abc6065aa63e8bcab9cf9f2cc17140f8e)]
 -  Merge pull request [#27](https://github.com/21r8390/flimtix.dev/issues/27) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.28.5 [[3fcb1dd](https://github.com/21r8390/flimtix.dev/commit/3fcb1dd033ae0b5978e8fe14869b958bd4d9c0c7)]
 - 📝 : Update changelog [[fbd8dc8](https://github.com/21r8390/flimtix.dev/commit/fbd8dc875d4e8acd8910d98ccf32c22eed83528e)]
