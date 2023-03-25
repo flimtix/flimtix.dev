@@ -34,6 +34,7 @@
 
 ### Miscellaneous
 
+-  Update gitmoji.yml [[c1d12c2](https://github.com/21r8390/flimtix.dev/commit/c1d12c28400c3cb1469d2410dcfecfe7ff81ac9d)]
 -  Merge pull request [#54](https://github.com/21r8390/flimtix.dev/issues/54) from 21r8390/deepsource-transform-1bc79d89 [[c328c5f](https://github.com/21r8390/flimtix.dev/commit/c328c5fdd201308d5ec24d341c32228a5523c4c0)]
 -  Merge pull request [#53](https://github.com/21r8390/flimtix.dev/issues/53) from 21r8390/deepsource-transform-fbab3d37 [[710f3d4](https://github.com/21r8390/flimtix.dev/commit/710f3d41111082c4df5b1cca36c8bb3efc013538)]
 -  Skip gitmoji action for bots [[8646b3b](https://github.com/21r8390/flimtix.dev/commit/8646b3b73c00eae661ace9391fc633716af9b2fa)]
@@ -42,6 +43,7 @@
 -  Merge pull request [#47](https://github.com/21r8390/flimtix.dev/issues/47) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/webpack-5.76.3 [[6b9dd0c](https://github.com/21r8390/flimtix.dev/commit/6b9dd0cb3912ffc02594e06a07bcd2f88877da09)]
 -  Merge pull request [#44](https://github.com/21r8390/flimtix.dev/issues/44) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.29.7 [[c6e937a](https://github.com/21r8390/flimtix.dev/commit/c6e937a56002dfd7ac9dca1a384c8080d29513f4)]
 -  Merge pull request [#45](https://github.com/21r8390/flimtix.dev/issues/45) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.6.4 [[a94baea](https://github.com/21r8390/flimtix.dev/commit/a94baead2543b1ea5bef15aac4b9e85dc95a24dc)]
+- 📝 : Update changelog [[1ed2b10](https://github.com/21r8390/flimtix.dev/commit/1ed2b1021b9edd00e92ec46f9309687454931495)]
 -  style: Format code with prettier and dotnet-format [[796ae6c](https://github.com/21r8390/flimtix.dev/commit/796ae6c4bd84a6026a09335e33dc0f8935b25e6d)]
 - 📝 : Update changelog [[32ac9c0](https://github.com/21r8390/flimtix.dev/commit/32ac9c080a9234efdf72868dfd5730ecf214482a)]
 -  style: Format code with prettier and dotnet-format [[804c103](https://github.com/21r8390/flimtix.dev/commit/804c103c46e9c591a4443cf513bb1216991d561c)]
