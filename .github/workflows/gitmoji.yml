@@ -10,7 +10,7 @@ on:
 jobs:
     generate-changelog:
         runs-on: ubuntu-latest
-        if: github.actor != '*[bot]'
+        if: "!endsWith(github.actor, '[bot]')"
         steps:
             - name: 'Checkout'
               uses: 'actions/checkout@v3'
