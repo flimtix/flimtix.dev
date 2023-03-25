@@ -34,11 +34,13 @@
 
 ### Miscellaneous
 
+-  Skip gitmoji action for bots [[8646b3b](https://github.com/21r8390/flimtix.dev/commit/8646b3b73c00eae661ace9391fc633716af9b2fa)]
 -  Merge pull request [#51](https://github.com/21r8390/flimtix.dev/issues/51) from 21r8390/deepsource-transform-45d8df80 [[ef667d6](https://github.com/21r8390/flimtix.dev/commit/ef667d6c9acca055716ef20f10a570428800750d)]
 -  Merge pull request [#49](https://github.com/21r8390/flimtix.dev/issues/49) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.3.2 [[9183c5a](https://github.com/21r8390/flimtix.dev/commit/9183c5ae68ed633d49a8dc71b5a436ada2761b57)]
 -  Merge pull request [#47](https://github.com/21r8390/flimtix.dev/issues/47) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/webpack-5.76.3 [[6b9dd0c](https://github.com/21r8390/flimtix.dev/commit/6b9dd0cb3912ffc02594e06a07bcd2f88877da09)]
 -  Merge pull request [#44](https://github.com/21r8390/flimtix.dev/issues/44) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.29.7 [[c6e937a](https://github.com/21r8390/flimtix.dev/commit/c6e937a56002dfd7ac9dca1a384c8080d29513f4)]
 -  Merge pull request [#45](https://github.com/21r8390/flimtix.dev/issues/45) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.6.4 [[a94baea](https://github.com/21r8390/flimtix.dev/commit/a94baead2543b1ea5bef15aac4b9e85dc95a24dc)]
+- 📝 : Update changelog [[cc09881](https://github.com/21r8390/flimtix.dev/commit/cc09881ff791c820188666065404a648de3934cf)]
 -  style: Format code with prettier and dotnet-format [[334c8c3](https://github.com/21r8390/flimtix.dev/commit/334c8c334354fcfb548826be842171dbdd8acb59)]
 - 📝 : Update changelog [[3df8ee2](https://github.com/21r8390/flimtix.dev/commit/3df8ee26ce407f72f0e22675f68afe5ffa20498a)]
 - 📝 : Update changelog [[2a0f544](https://github.com/21r8390/flimtix.dev/commit/2a0f544ef45773b956428fc3bf73f3a1a3a354c4)]
