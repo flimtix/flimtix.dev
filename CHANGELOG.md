@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[340465a](https://github.com/21r8390/flimtix.dev/commit/340465a0e02ae1aba5cf8462f1a084254f40a318)]
 - ⬆️ : Bump vitest from 0.30.1 to 0.31.1 in /frontend/nuxt-app [[62ff1b6](https://github.com/21r8390/flimtix.dev/commit/62ff1b6b456fd12a1efa237cf42077cbcb3c70fe)]
 - ⬆️ : Bump @nuxt/image-edge in /frontend/nuxt-app [[36f2796](https://github.com/21r8390/flimtix.dev/commit/36f27967a4ab064226aaadfe885809d1a31be7a9)]
 - ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[eb37503](https://github.com/21r8390/flimtix.dev/commit/eb3750367357d99d71228c7420ac8184d3bc3488)]
@@ -40,8 +41,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#79](https://github.com/21r8390/flimtix.dev/issues/79) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.7.0 [[90b670f](https://github.com/21r8390/flimtix.dev/commit/90b670fe66db957885390c6c122bc6786f2c5865)]
 -  Merge pull request [#78](https://github.com/21r8390/flimtix.dev/issues/78) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.31.1 [[4a3e2bc](https://github.com/21r8390/flimtix.dev/commit/4a3e2bca9598ac086f9c195dcbbd8fced1a64aa3)]
 -  Merge pull request [#75](https://github.com/21r8390/flimtix.dev/issues/75) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/image-edge-1.0.0-28059208.2abef1b [[2d27f7b](https://github.com/21r8390/flimtix.dev/commit/2d27f7b27327b855f5daa00455391aec2d7eb3f7)]
+- 📝 : Update changelog [[4ea67d1](https://github.com/21r8390/flimtix.dev/commit/4ea67d1d8cafacdcbc9fcbc3d026e60989bb1c59)]
 - 📝 : Update changelog [[59d928e](https://github.com/21r8390/flimtix.dev/commit/59d928eeccb71b638d4fdaf16f89cc91118ba0a9)]
 -  Merge pull request [#71](https://github.com/21r8390/flimtix.dev/issues/71) from 21r8390/deepsource-transform-31aa2575 [[9bbd66f](https://github.com/21r8390/flimtix.dev/commit/9bbd66fb62eab8057bed7b46bd280051b6284b72)]
 -  Merge pull request [#70](https://github.com/21r8390/flimtix.dev/issues/70) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.6.7 [[f28f277](https://github.com/21r8390/flimtix.dev/commit/f28f277e6a2a67626e03c77f1230449919022505)]
