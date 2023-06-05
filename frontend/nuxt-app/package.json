@@ -18,7 +18,7 @@
 		"postinstall": "nuxt prepare"
 	},
 	"devDependencies": {
-		"@nuxt/image-edge": "^1.0.0-28059208.2abef1b",
+		"@nuxt/image-edge": "^1.0.0-28094330.102af81",
 		"@nuxt/test-utils": "^3.5.2",
 		"@nuxtjs/tailwindcss": "^6.7.0",
 		"nuxt": "3.2.2",
