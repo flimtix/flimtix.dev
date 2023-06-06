@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-06-05)
+## 1.1.0 (2023-06-06)
 
 ### Added
 
@@ -44,8 +44,11 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#89](https://github.com/21r8390/flimtix.dev/issues/89) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.1.5 [[d100f16](https://github.com/21r8390/flimtix.dev/commit/d100f16f3ed19db2753a135ac5f1c2a4acfd975f)]
+-  Bump vite from 4.1.2 to 4.1.5 in /frontend/nuxt-app [[171daa1](https://github.com/21r8390/flimtix.dev/commit/171daa1a83053b27f9ee8f403a10f01fd9944f9c)]
 -  Merge pull request [#87](https://github.com/21r8390/flimtix.dev/issues/87) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.31.4 [[0dbfa7b](https://github.com/21r8390/flimtix.dev/commit/0dbfa7bda4514476080258e77473bed0556151d2)]
 -  Merge pull request [#86](https://github.com/21r8390/flimtix.dev/issues/86) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/image-edge-1.0.0-28094330.102af81 [[96f6023](https://github.com/21r8390/flimtix.dev/commit/96f6023613a929837e0f0750bae3ac225113aa80)]
+- 📝 : Update changelog [[e1b7e6c](https://github.com/21r8390/flimtix.dev/commit/e1b7e6c53519c58e43351ab12a70216859192dfa)]
 -  Merge pull request [#85](https://github.com/21r8390/flimtix.dev/issues/85) from 21r8390/deepsource-transform-ade43945 [[0dcda90](https://github.com/21r8390/flimtix.dev/commit/0dcda909b80cdd3bd121133586cb4d032583cfb3)]
 -  Merge pull request [#82](https://github.com/21r8390/flimtix.dev/issues/82) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.5.2 [[c6b7d74](https://github.com/21r8390/flimtix.dev/commit/c6b7d74b3928c236be7e10c3ffef7405f8e4843f)]
 -  Merge pull request [#79](https://github.com/21r8390/flimtix.dev/issues/79) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.7.0 [[90b670f](https://github.com/21r8390/flimtix.dev/commit/90b670fe66db957885390c6c122bc6786f2c5865)]
