@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-06-15)
+## 1.1.0 (2023-06-17)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[1d23207](https://github.com/21r8390/flimtix.dev/commit/1d2320726c350e7a311d6147b2b50b970161aaf4)]
 - ⬆️ : Bump vitest from 0.31.4 to 0.32.0 in /frontend/nuxt-app [[2e09258](https://github.com/21r8390/flimtix.dev/commit/2e092580498405fa1dab73c03d0118fd8573f2de)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[d426bb4](https://github.com/21r8390/flimtix.dev/commit/d426bb42f8a3575b2873bf12947bcb730e580c98)]
 - ⬆️ : Bump vitest from 0.31.1 to 0.31.4 in /frontend/nuxt-app [[37cde1d](https://github.com/21r8390/flimtix.dev/commit/37cde1d82b1349c47b80f16b151efbce4011007e)]
@@ -46,8 +47,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#95](https://github.com/21r8390/flimtix.dev/issues/95) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.7.2 [[b813189](https://github.com/21r8390/flimtix.dev/commit/b813189a40e5fe97a2a5d45278739bf2088bad6c)]
 -  Merge pull request [#91](https://github.com/21r8390/flimtix.dev/issues/91) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.5.3 [[d038f99](https://github.com/21r8390/flimtix.dev/commit/d038f9932e3226ee0b4eba03d460edf7cfb0f58b)]
 -  Merge pull request [#92](https://github.com/21r8390/flimtix.dev/issues/92) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.32.0 [[3d181c1](https://github.com/21r8390/flimtix.dev/commit/3d181c191c89cc0b49115b8bbb20ad49dd04e389)]
+- 📝 : Update changelog [[8987f0a](https://github.com/21r8390/flimtix.dev/commit/8987f0a206773f3e298f83141c3a42f76378e33c)]
 -  Merge pull request [#90](https://github.com/21r8390/flimtix.dev/issues/90) from 21r8390/deepsource-transform-a979201f [[866af1e](https://github.com/21r8390/flimtix.dev/commit/866af1e18317b8280987a3612b830841c8f51243)]
 -  Merge pull request [#89](https://github.com/21r8390/flimtix.dev/issues/89) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.1.5 [[d100f16](https://github.com/21r8390/flimtix.dev/commit/d100f16f3ed19db2753a135ac5f1c2a4acfd975f)]
 -  style: format code with prettier and dotnet-format [[6e43256](https://github.com/21r8390/flimtix.dev/commit/6e432565bdc1ae4d783cd6cd989336ec35785e8e)]
