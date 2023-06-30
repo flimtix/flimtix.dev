@@ -901,7 +901,7 @@
   optionalDependencies:
     ipx "^1.1.0"
 
-"@nuxt/kit@3.5.3", "@nuxt/kit@^3.0.0", "@nuxt/kit@^3.3.3", "@nuxt/kit@^3.5.2", "@nuxt/kit@^3.5.3":
+"@nuxt/kit@3.5.3":
   version "3.5.3"
   resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.5.3.tgz#879d556142febcc8250aff857e75bb8d87daedbb"
   integrity sha512-QzoOGqa1zjKQfg7Y50TrrFAL9DhtIpYYs10gihcM1ISPrn9ROht+VEjqsaMvT+L8JuQbNf8wDYl8qzsdWGU29Q==
@@ -922,6 +922,29 @@
     semver "^7.5.1"
     unctx "^2.3.1"
     unimport "^3.0.7"
+    untyped "^1.3.2"
+
+"@nuxt/kit@3.6.1", "@nuxt/kit@^3.0.0", "@nuxt/kit@^3.3.3", "@nuxt/kit@^3.5.2", "@nuxt/kit@^3.5.3":
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.6.1.tgz#78c1a18f63defaf890f1e7d6c69f4d385d43b8af"
+  integrity sha512-7AoiKV0zAtyT3ZvjMfGislMcB+JMbBZxYw68/oWtkEPXCfGQMYuiMI9Ue246/0JT2Yp2KZclEgrJEJ6NLkqFcw==
+  dependencies:
+    "@nuxt/schema" "3.6.1"
+    c12 "^1.4.2"
+    consola "^3.1.0"
+    defu "^6.1.2"
+    globby "^13.2.0"
+    hash-sum "^2.0.0"
+    ignore "^5.2.4"
+    jiti "^1.18.2"
+    knitwork "^1.0.0"
+    mlly "^1.4.0"
+    pathe "^1.1.1"
+    pkg-types "^1.0.3"
+    scule "^1.0.0"
+    semver "^7.5.3"
+    unctx "^2.3.1"
+    unimport "^3.0.10"
     untyped "^1.3.2"
 
 "@nuxt/postcss8@^1.1.3":
@@ -953,6 +976,21 @@
     unimport "^3.0.7"
     untyped "^1.3.2"
 
+"@nuxt/schema@3.6.1":
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.6.1.tgz#aadeeede96b00ea3f5a019bfb8f5fb80e5b7c6a3"
+  integrity sha512-+4pr0lkcPP5QqprYV+/ujmBkt2JHmi/v5vaxCrMhElUFgifvJAfT89BkGFn6W7pz0b8Vd3GcByFUWI7/wX/Pcw==
+  dependencies:
+    defu "^6.1.2"
+    hookable "^5.5.3"
+    pathe "^1.1.1"
+    pkg-types "^1.0.3"
+    postcss-import-resolver "^2.0.0"
+    std-env "^3.3.3"
+    ufo "^1.1.2"
+    unimport "^3.0.10"
+    untyped "^1.3.2"
+
 "@nuxt/telemetry@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@nuxt/telemetry/-/telemetry-2.2.0.tgz#99b79173f4f2aa6af445b4d6e6e1f30b73cdcd65"
@@ -979,18 +1017,18 @@
     rc9 "^2.1.0"
     std-env "^3.3.2"
 
-"@nuxt/test-utils@^3.5.3":
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/@nuxt/test-utils/-/test-utils-3.5.3.tgz#8aa1ff97c35ea3d314e7b08027e3fccef0f10197"
-  integrity sha512-ujkOrn3Qvd+6TREsg4h6Vm1YbPgwl70qh9s6jQiEIGhaH9wqXUUgbHEdWelUMeRO+jbV1X4rtd7Sdww/rfR5lA==
+"@nuxt/test-utils@^3.6.1":
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/test-utils/-/test-utils-3.6.1.tgz#99e9e8e1d00b4ea8bce0c376e9f2e5886e41b560"
+  integrity sha512-pTyRwUseXXL+BAX7p3mHNDm6hSkK56GkiSYEoHfIN7C0rLOvsHbpjPp5FsRiCrr5Kk09TKFvjUNtk2UDhzFcvQ==
   dependencies:
-    "@nuxt/kit" "3.5.3"
-    "@nuxt/schema" "3.5.3"
+    "@nuxt/kit" "3.6.1"
+    "@nuxt/schema" "3.6.1"
     consola "^3.1.0"
     defu "^6.1.2"
     execa "^7.1.1"
     get-port-please "^3.0.1"
-    ofetch "^1.0.1"
+    ofetch "^1.1.1"
     pathe "^1.1.1"
     ufo "^1.1.2"
 
@@ -5163,6 +5201,13 @@ semver@^7.5.2:
   dependencies:
     lru-cache "^6.0.0"
 
+semver@^7.5.3:
+  version "7.5.3"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.3.tgz#161ce8c2c6b4b3bdca6caadc9fa3317a4c4fe88e"
+  integrity sha512-QBlUtyVk/5EeHbi7X0fw6liDZc7BBmEaSYn01fMU1OUYbf6GPsbTtd8WmnqbI20SeycoHSeiybkE/q1Q+qlThQ==
+  dependencies:
+    lru-cache "^6.0.0"
+
 send@0.18.0:
   version "0.18.0"
   resolved "https://registry.yarnpkg.com/send/-/send-0.18.0.tgz#670167cc654b05f5aa4a767f9113bb371bc706be"
@@ -5726,6 +5771,23 @@ unhead@1.1.27:
     "@unhead/schema" "1.1.27"
     "@unhead/shared" "1.1.27"
     hookable "^5.5.3"
+
+unimport@^3.0.10:
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/unimport/-/unimport-3.0.11.tgz#64b0e9dc508e1835737a2e333e75d7123db63120"
+  integrity sha512-UaaLu7TiqiEwjm5a9FGsL8RL87U65wyr1jBeIAAvLChgJZRMTTkknU9bkWjBsVGutXLT2Yq8/dPyWXSC3/ELRg==
+  dependencies:
+    "@rollup/pluginutils" "^5.0.2"
+    escape-string-regexp "^5.0.0"
+    fast-glob "^3.2.12"
+    local-pkg "^0.4.3"
+    magic-string "^0.30.0"
+    mlly "^1.4.0"
+    pathe "^1.1.1"
+    pkg-types "^1.0.3"
+    scule "^1.0.0"
+    strip-literal "^1.0.1"
+    unplugin "^1.3.1"
 
 unimport@^3.0.7, unimport@^3.0.8:
   version "3.0.8"
