@@ -906,30 +906,7 @@
   optionalDependencies:
     ipx "^1.1.0"
 
-"@nuxt/kit@3.6.1":
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.6.1.tgz#78c1a18f63defaf890f1e7d6c69f4d385d43b8af"
-  integrity sha512-7AoiKV0zAtyT3ZvjMfGislMcB+JMbBZxYw68/oWtkEPXCfGQMYuiMI9Ue246/0JT2Yp2KZclEgrJEJ6NLkqFcw==
-  dependencies:
-    "@nuxt/schema" "3.6.1"
-    c12 "^1.4.2"
-    consola "^3.1.0"
-    defu "^6.1.2"
-    globby "^13.2.0"
-    hash-sum "^2.0.0"
-    ignore "^5.2.4"
-    jiti "^1.18.2"
-    knitwork "^1.0.0"
-    mlly "^1.4.0"
-    pathe "^1.1.1"
-    pkg-types "^1.0.3"
-    scule "^1.0.0"
-    semver "^7.5.3"
-    unctx "^2.3.1"
-    unimport "^3.0.10"
-    untyped "^1.3.2"
-
-"@nuxt/kit@3.6.2", "@nuxt/kit@^3.0.0", "@nuxt/kit@^3.5.2", "@nuxt/kit@^3.5.3", "@nuxt/kit@^3.6.1":
+"@nuxt/kit@3.6.2":
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.6.2.tgz#7201b64799a53f26a8d7ae7878b0138cb2a2e185"
   integrity sha512-X1WN76izsILva6TvQVTfJCHG7TXCwsB6jsxZKcU3qSog26jer5dildDb5ZmKL3e+IFD6BwK4ShO/py8VZcT6OA==
@@ -939,6 +916,29 @@
     consola "^3.2.2"
     defu "^6.1.2"
     globby "^13.2.1"
+    hash-sum "^2.0.0"
+    ignore "^5.2.4"
+    jiti "^1.19.1"
+    knitwork "^1.0.0"
+    mlly "^1.4.0"
+    pathe "^1.1.1"
+    pkg-types "^1.0.3"
+    scule "^1.0.0"
+    semver "^7.5.3"
+    unctx "^2.3.1"
+    unimport "^3.0.14"
+    untyped "^1.3.2"
+
+"@nuxt/kit@3.6.5", "@nuxt/kit@^3.0.0", "@nuxt/kit@^3.5.2", "@nuxt/kit@^3.5.3", "@nuxt/kit@^3.6.1":
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.6.5.tgz#208777acdc2a09109fbe4209aad736874eb9a3f5"
+  integrity sha512-uBI5I2Zx6sk+vRHU+nBmifwxg/nyXCGZ1g5hUKrUfgv1ZfiKB8JkN5T9iRoduDOaqbwM6XSnEl1ja73iloDcrw==
+  dependencies:
+    "@nuxt/schema" "3.6.5"
+    c12 "^1.4.2"
+    consola "^3.2.3"
+    defu "^6.1.2"
+    globby "^13.2.2"
     hash-sum "^2.0.0"
     ignore "^5.2.4"
     jiti "^1.19.1"
@@ -966,10 +966,10 @@
     postcss-url "^10.1.1"
     semver "^7.3.4"
 
-"@nuxt/schema@3.6.1":
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.6.1.tgz#aadeeede96b00ea3f5a019bfb8f5fb80e5b7c6a3"
-  integrity sha512-+4pr0lkcPP5QqprYV+/ujmBkt2JHmi/v5vaxCrMhElUFgifvJAfT89BkGFn6W7pz0b8Vd3GcByFUWI7/wX/Pcw==
+"@nuxt/schema@3.6.2":
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.6.2.tgz#762b2af9b23c0d5bfec5ef4dc00af05ba80f561e"
+  integrity sha512-wxb1/C5ozly5IwX0IRjVGml1n2KjZrTKsf6lTk3fdjUpW105kAvYX4j66PDOdBRE4vCwCsgaHJfWpUSeNBxbuA==
   dependencies:
     defu "^6.1.2"
     hookable "^5.5.3"
@@ -978,13 +978,13 @@
     postcss-import-resolver "^2.0.0"
     std-env "^3.3.3"
     ufo "^1.1.2"
-    unimport "^3.0.10"
+    unimport "^3.0.14"
     untyped "^1.3.2"
 
-"@nuxt/schema@3.6.2":
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.6.2.tgz#762b2af9b23c0d5bfec5ef4dc00af05ba80f561e"
-  integrity sha512-wxb1/C5ozly5IwX0IRjVGml1n2KjZrTKsf6lTk3fdjUpW105kAvYX4j66PDOdBRE4vCwCsgaHJfWpUSeNBxbuA==
+"@nuxt/schema@3.6.5":
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.6.5.tgz#c66cf331625b41a01d510bd9e0f1227e1ff8664a"
+  integrity sha512-UPUnMB0W5TZ/Pi1fiF71EqIsPlj8LGZqzhSf8wOeh538KHwxbA9r7cuvEUU92eXRksOZaylbea3fJxZWhOITVw==
   dependencies:
     defu "^6.1.2"
     hookable "^5.5.3"
@@ -1021,14 +1021,14 @@
     rc9 "^2.1.1"
     std-env "^3.3.3"
 
-"@nuxt/test-utils@^3.6.1":
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/test-utils/-/test-utils-3.6.1.tgz#99e9e8e1d00b4ea8bce0c376e9f2e5886e41b560"
-  integrity sha512-pTyRwUseXXL+BAX7p3mHNDm6hSkK56GkiSYEoHfIN7C0rLOvsHbpjPp5FsRiCrr5Kk09TKFvjUNtk2UDhzFcvQ==
+"@nuxt/test-utils@^3.6.5":
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@nuxt/test-utils/-/test-utils-3.6.5.tgz#c718b3a54ab30bd88394755db3a6282e9c63a74e"
+  integrity sha512-excgW7fTOxGaIpLmiFo3hCD56Z2/b1hqpn6Wvdw5wZSHdrReke/Ka23Ut+7P+bBiciLrNrhpk7M3ORCNRfJNDA==
   dependencies:
-    "@nuxt/kit" "3.6.1"
-    "@nuxt/schema" "3.6.1"
-    consola "^3.1.0"
+    "@nuxt/kit" "3.6.5"
+    "@nuxt/schema" "3.6.5"
+    consola "^3.2.3"
     defu "^6.1.2"
     execa "^7.1.1"
     get-port-please "^3.0.1"
@@ -2110,15 +2110,10 @@ concordance@^5.0.4:
     semver "^7.3.2"
     well-known-symbols "^2.0.0"
 
-consola@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/consola/-/consola-3.1.0.tgz#dfdfa62ceb68bc1f06e4a76ad688566bd8813baf"
-  integrity sha512-rrrJE6rP0qzl/Srg+C9x/AE5Kxfux7reVm1Wh0wCjuXvih6DqZgqDZe8auTD28fzJ9TF0mHlSDrPpWlujQRo1Q==
-
-consola@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/consola/-/consola-3.2.2.tgz#be9b295e1e556355a09ac475b4394016144e0c32"
-  integrity sha512-r921u0vbF4lQsoIqYvSSER+yZLPQGijOHrYcWoCNVNBZmn/bRR+xT/DgerTze/nLD9TTGzdDa378TVhx7RDOYg==
+consola@^3.1.0, consola@^3.2.2, consola@^3.2.3:
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/consola/-/consola-3.2.3.tgz#0741857aa88cfa0d6fd53f1cff0375136e98502f"
+  integrity sha512-I5qxpzLv+sJhTVEoLYNcTW+bThDCPsit0vLNKShZx6rLtpilNpmmeTPaeqJb9ZE9dV3DGaeby6Vuhrw38WjeyQ==
 
 console-control-strings@^1.0.0, console-control-strings@^1.1.0:
   version "1.1.0"
@@ -2997,7 +2992,7 @@ globals@^11.1.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
   integrity sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==
 
-globby@^13.2.0, globby@^13.2.1:
+globby@^13.2.0, globby@^13.2.1, globby@^13.2.2:
   version "13.2.2"
   resolved "https://registry.yarnpkg.com/globby/-/globby-13.2.2.tgz#63b90b1bf68619c2135475cbd4e71e66aa090592"
   integrity sha512-Y1zNGV+pzQdh7H39l9zgB4PJqjRNqydvdYCDG4HFXM4XuvSaQQlEc91IU1yALL8gUTDomgBAfz3XJdmUS+oo0w==
@@ -5557,7 +5552,7 @@ unhead@1.1.30:
     "@unhead/shared" "1.1.30"
     hookable "^5.5.3"
 
-unimport@^3.0.10, unimport@^3.0.11, unimport@^3.0.14:
+unimport@^3.0.11, unimport@^3.0.14:
   version "3.0.14"
   resolved "https://registry.yarnpkg.com/unimport/-/unimport-3.0.14.tgz#d60beeddc24187243cc1a9f79a75adfeea6dbc31"
   integrity sha512-67Rh/sGpEuVqdHWkXaZ6NOq+I7sKt86o+DUtKeGB6dh4Hk1A8AQrzyVGg2+LaVEYotStH7HwvV9YSaRjyT7Uqg==
