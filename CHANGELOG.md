@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-07-21)
+## 1.1.0 (2023-08-14)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump vitest from 0.32.0 to 0.34.1 in /frontend/nuxt-app [[4a15dd4](https://github.com/21r8390/flimtix.dev/commit/4a15dd43cc8cb35a1cede33f9cea1644e9392df8)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[711b456](https://github.com/21r8390/flimtix.dev/commit/711b456d512b4078b1db0db69394207451cb4bc2)]
 - ⬆️ : Bump nuxt from 3.6.1 to 3.6.2 in /frontend/nuxt-app [[156861d](https://github.com/21r8390/flimtix.dev/commit/156861d9797da6df1bc781473c09d85128a649ec)]
 - ⬆️ : Bump nuxt from 3.5.3 to 3.6.1 in /frontend/nuxt-app [[901b34d](https://github.com/21r8390/flimtix.dev/commit/901b34d85c8c1c9b56054e2cdf0b5dbfde64cf04)]
@@ -52,7 +53,9 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#114](https://github.com/21r8390/flimtix.dev/issues/114) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.34.1 [[59ca977](https://github.com/21r8390/flimtix.dev/commit/59ca977e012e232f20e373ca15c49c23333dbf7c)]
 -  Merge pull request [#111](https://github.com/21r8390/flimtix.dev/issues/111) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.6.5 [[6a37d2c](https://github.com/21r8390/flimtix.dev/commit/6a37d2c97e7de3e5c1a2ec1a4fd607c06241ed87)]
+- 📝 : Update changelog [[2535952](https://github.com/21r8390/flimtix.dev/commit/2535952addd579f2a1b3a158556b574ea4231be4)]
 -  Merge pull request [#109](https://github.com/21r8390/flimtix.dev/issues/109) from 21r8390/deepsource-transform-7c9b7961 [[84e49dd](https://github.com/21r8390/flimtix.dev/commit/84e49dd9eebd77e8f6ba8ba957ab5acde4ca6b85)]
 -  Merge pull request [#110](https://github.com/21r8390/flimtix.dev/issues/110) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/semver-6.3.1 [[410f31f](https://github.com/21r8390/flimtix.dev/commit/410f31f95890b9fb2f966551002cc07f01f7a189)]
 -  Merge pull request [#108](https://github.com/21r8390/flimtix.dev/issues/108) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.6.2 [[3e6b9f4](https://github.com/21r8390/flimtix.dev/commit/3e6b9f40bfc2ff0712a7c45b92e9abc551f86ea4)]
