@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-09-28)
+## 1.1.0 (2023-10-05)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump nuxt from 3.6.2 to 3.7.4 in /frontend/nuxt-app [[77a5fc4](https://github.com/21r8390/flimtix.dev/commit/77a5fc4a569204461b15bac53372064ea8ba6321)]
 - ⬆️ : Bump vitest from 0.34.3 to 0.34.5 in /frontend/nuxt-app [[68fcdde](https://github.com/21r8390/flimtix.dev/commit/68fcdde21cd56e177f8f24c0010b709fe7b466e1)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[d425c82](https://github.com/21r8390/flimtix.dev/commit/d425c828cafeda03fe52e7e525bcf6319339a09d)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[e7b59b9](https://github.com/21r8390/flimtix.dev/commit/e7b59b994d93f135888ac01c32a09da2e55c06d5)]
@@ -58,9 +59,11 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#131](https://github.com/21r8390/flimtix.dev/issues/131) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.7.4 [[e269786](https://github.com/21r8390/flimtix.dev/commit/e2697867090d532e1b63b2821ba072d31a116285)]
 -  Merge pull request [#126](https://github.com/21r8390/flimtix.dev/issues/126) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.7.3 [[7489a34](https://github.com/21r8390/flimtix.dev/commit/7489a340363ea63ca551ad3b26b6fef243a44c12)]
 -  Merge pull request [#127](https://github.com/21r8390/flimtix.dev/issues/127) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.34.5 [[321c1a4](https://github.com/21r8390/flimtix.dev/commit/321c1a4f588636130e3ebb96532fd8a5b4f22343)]
 -  Merge pull request [#128](https://github.com/21r8390/flimtix.dev/issues/128) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/get-func-name-2.0.2 [[11d87f0](https://github.com/21r8390/flimtix.dev/commit/11d87f08227d4038c6431e131132d9f85b0048f1)]
+- 📝 : Update changelog [[fb19504](https://github.com/21r8390/flimtix.dev/commit/fb19504c7d5bb4e25e6d4c84bb5a49eccb7a5837)]
 -  Bump get-func-name from 2.0.0 to 2.0.2 in /frontend/nuxt-app [[13c56cf](https://github.com/21r8390/flimtix.dev/commit/13c56cf57ad077896c0751fe90bee66aa21403cf)]
 -  Merge pull request [#119](https://github.com/21r8390/flimtix.dev/issues/119) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-0.34.3 [[e2819d9](https://github.com/21r8390/flimtix.dev/commit/e2819d9773794a534c65e56f2bb32fb063232814)]
 -  Merge pull request [#121](https://github.com/21r8390/flimtix.dev/issues/121) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.7.1 [[498ac53](https://github.com/21r8390/flimtix.dev/commit/498ac531869226a055bfc1851d160c3b75e67798)]
