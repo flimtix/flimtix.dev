@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[106cae8](https://github.com/21r8390/flimtix.dev/commit/106cae8015edd3da3040c237ecf3f8bff4d4bcca)]
 - ⬆️ : Bump vitest from 0.34.5 to 0.34.6 in /frontend/nuxt-app [[ec72711](https://github.com/21r8390/flimtix.dev/commit/ec727112df8ad308491ca6e47e4ab9c7ad196fe2)]
 - ⬆️ : Bump nuxt from 3.6.2 to 3.7.4 in /frontend/nuxt-app [[77a5fc4](https://github.com/21r8390/flimtix.dev/commit/77a5fc4a569204461b15bac53372064ea8ba6321)]
 - ⬆️ : Bump vitest from 0.34.3 to 0.34.5 in /frontend/nuxt-app [[68fcdde](https://github.com/21r8390/flimtix.dev/commit/68fcdde21cd56e177f8f24c0010b709fe7b466e1)]
@@ -60,8 +61,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#138](https://github.com/21r8390/flimtix.dev/issues/138) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.8.0 [[609961a](https://github.com/21r8390/flimtix.dev/commit/609961af671c50b454bcc39d4f63a56a3d25a7c8)]
 -  Merge pull request [#135](https://github.com/21r8390/flimtix.dev/issues/135) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/undici-5.26.3 [[3733e35](https://github.com/21r8390/flimtix.dev/commit/3733e358269c63297bad0ac38adcd439ba60cbb3)]
 -  Merge pull request [#136](https://github.com/21r8390/flimtix.dev/issues/136) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/babel/traverse-7.23.2 [[f74664d](https://github.com/21r8390/flimtix.dev/commit/f74664d821e8649ad52de364f81f678d53d138c3)]
+- 📝 : Update changelog [[3e61f80](https://github.com/21r8390/flimtix.dev/commit/3e61f8063a4748b901e4e2276e5797973240f263)]
 -  Bump @babel/traverse from 7.22.5 to 7.23.2 in /frontend/nuxt-app [[dd67fd8](https://github.com/21r8390/flimtix.dev/commit/dd67fd8aa83c34250ff5c2e0e1ec4c614dd8dcc9)]
 -  Bump undici from 5.25.2 to 5.26.3 in /frontend/nuxt-app [[0c69699](https://github.com/21r8390/flimtix.dev/commit/0c69699d8a177cf502191256d74b08affb45f2e9)]
 -  Merge pull request [#133](https://github.com/21r8390/flimtix.dev/issues/133) from 21r8390/deepsource-transform-515ec20c [[f1b3d45](https://github.com/21r8390/flimtix.dev/commit/f1b3d459f7e9b0c6f5e51def68167b32d4ca96d4)]
