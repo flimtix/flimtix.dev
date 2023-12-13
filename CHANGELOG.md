@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-11-13)
+## 1.1.0 (2023-12-13)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump nuxt from 3.7.4 to 3.8.2 in /frontend/nuxt-app [[402f94c](https://github.com/21r8390/flimtix.dev/commit/402f94cb4a6f98818a883f7ab60e7b19512484fe)]
 - ⬆️ : Bump @nuxt/test-utils in /frontend/nuxt-app [[3cc69e0](https://github.com/21r8390/flimtix.dev/commit/3cc69e00088f65edb31fdb9a4b8fbf526e374cbe)]
 - ⬆️ : Bump @nuxt/image-edge in /frontend/nuxt-app [[29c9f17](https://github.com/21r8390/flimtix.dev/commit/29c9f17cbcd9504654210b4c9cf3e38d7f17555c)]
 - ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[e8ab03d](https://github.com/21r8390/flimtix.dev/commit/e8ab03dd4263687850b9ae22946500b4a2d47849)]
@@ -65,7 +66,9 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#155](https://github.com/21r8390/flimtix.dev/issues/155) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.8.2 [[b71cff8](https://github.com/21r8390/flimtix.dev/commit/b71cff83db163564ef2706834f4ac954c7f42905)]
 -  Merge pull request [#148](https://github.com/21r8390/flimtix.dev/issues/148) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.8.1 [[757364a](https://github.com/21r8390/flimtix.dev/commit/757364acadfd0bf61a3cfcd46670e3102ca7d800)]
+- 📝 : Update changelog [[0f980c6](https://github.com/21r8390/flimtix.dev/commit/0f980c636a90a8325a5b49e51b215f559f77c1c7)]
 -  Merge pull request [#145](https://github.com/21r8390/flimtix.dev/issues/145) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.9.3 [[afeff43](https://github.com/21r8390/flimtix.dev/commit/afeff43dc1e942c2d78fee76a54f1c81ec901607)]
 -  Merge pull request [#146](https://github.com/21r8390/flimtix.dev/issues/146) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/image-edge-1.0.0-28307739.8b815ac [[f53d2e0](https://github.com/21r8390/flimtix.dev/commit/f53d2e0d5e64391cf476299a6935a14573caf660)]
 - 📝 : Update changelog [[acf81bd](https://github.com/21r8390/flimtix.dev/commit/acf81bdb8b34df3436fc5a9fba75346a040c13ec)]
