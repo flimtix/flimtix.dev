@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2023-12-13)
+## 1.1.0 (2024-01-12)
 
 ### Added
 
@@ -66,7 +66,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#158](https://github.com/21r8390/flimtix.dev/issues/158) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.5.1 [[f3857fa](https://github.com/21r8390/flimtix.dev/commit/f3857fa2f98ac799ffcd6e351da4934e5101f861)]
 -  Merge pull request [#155](https://github.com/21r8390/flimtix.dev/issues/155) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.8.2 [[b71cff8](https://github.com/21r8390/flimtix.dev/commit/b71cff83db163564ef2706834f4ac954c7f42905)]
+-  Bump vite from 4.4.9 to 4.5.1 in /frontend/nuxt-app [[82fb625](https://github.com/21r8390/flimtix.dev/commit/82fb62500a157d323b5f3e18a8b4abda5416c061)]
+- 📝 : Update changelog [[d5ba2e8](https://github.com/21r8390/flimtix.dev/commit/d5ba2e8d4ce799679542add9d5642773d7c1cfae)]
 -  Merge pull request [#148](https://github.com/21r8390/flimtix.dev/issues/148) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/test-utils-3.8.1 [[757364a](https://github.com/21r8390/flimtix.dev/commit/757364acadfd0bf61a3cfcd46670e3102ca7d800)]
 - 📝 : Update changelog [[0f980c6](https://github.com/21r8390/flimtix.dev/commit/0f980c636a90a8325a5b49e51b215f559f77c1c7)]
 -  Merge pull request [#145](https://github.com/21r8390/flimtix.dev/issues/145) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.9.3 [[afeff43](https://github.com/21r8390/flimtix.dev/commit/afeff43dc1e942c2d78fee76a54f1c81ec901607)]
