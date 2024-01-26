@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2024-01-12)
+## 1.1.0 (2024-01-26)
 
 ### Added
 
@@ -66,7 +66,10 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#172](https://github.com/21r8390/flimtix.dev/issues/172) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.5.2 [[97bf299](https://github.com/21r8390/flimtix.dev/commit/97bf2995d30426e522150cd6d942fa7df8a59bdb)]
+-  Bump vite from 4.5.1 to 4.5.2 in /frontend/nuxt-app [[9c9be98](https://github.com/21r8390/flimtix.dev/commit/9c9be984dca693d9bb3e3aa95ae0d2c8c21fbd1b)]
 -  Merge pull request [#158](https://github.com/21r8390/flimtix.dev/issues/158) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.5.1 [[f3857fa](https://github.com/21r8390/flimtix.dev/commit/f3857fa2f98ac799ffcd6e351da4934e5101f861)]
+- 📝 : Update changelog [[26d6c2a](https://github.com/21r8390/flimtix.dev/commit/26d6c2a75d2a1534092aad4bf5e446f154bad0d6)]
 -  Merge pull request [#155](https://github.com/21r8390/flimtix.dev/issues/155) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.8.2 [[b71cff8](https://github.com/21r8390/flimtix.dev/commit/b71cff83db163564ef2706834f4ac954c7f42905)]
 -  Bump vite from 4.4.9 to 4.5.1 in /frontend/nuxt-app [[82fb625](https://github.com/21r8390/flimtix.dev/commit/82fb62500a157d323b5f3e18a8b4abda5416c061)]
 - 📝 : Update changelog [[d5ba2e8](https://github.com/21r8390/flimtix.dev/commit/d5ba2e8d4ce799679542add9d5642773d7c1cfae)]
