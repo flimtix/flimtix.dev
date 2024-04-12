@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2024-03-02)
+## 1.1.0 (2024-04-12)
 
 ### Added
 
@@ -70,10 +70,13 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#191](https://github.com/21r8390/flimtix.dev/issues/191) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.5.3 [[f0d15a6](https://github.com/21r8390/flimtix.dev/commit/f0d15a6dc97c1a2cff53fe0289d0a119b65e076a)]
+-  Bump vite from 4.5.2 to 4.5.3 in /frontend/nuxt-app [[994c071](https://github.com/21r8390/flimtix.dev/commit/994c071361d32dcb8fdf09f750b4f645060acc91)]
 -  Merge pull request [#185](https://github.com/21r8390/flimtix.dev/issues/185) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/ip-2.0.1 [[106c4a5](https://github.com/21r8390/flimtix.dev/commit/106c4a5ee49d51edad6efdc148cee7090f68dfcd)]
 -  Merge pull request [#182](https://github.com/21r8390/flimtix.dev/issues/182) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.11.4 [[c25124d](https://github.com/21r8390/flimtix.dev/commit/c25124dbba4da65faf579fc291f51ead5309b705)]
 -  Merge pull request [#184](https://github.com/21r8390/flimtix.dev/issues/184) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/undici-5.28.3 [[13446b5](https://github.com/21r8390/flimtix.dev/commit/13446b5ea77786412a5f2fa8031d60f55d40d7df)]
 -  Merge pull request [#187](https://github.com/21r8390/flimtix.dev/issues/187) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-1.3.1 [[48f9bba](https://github.com/21r8390/flimtix.dev/commit/48f9bba07138f2fa7f6f8bd877d3af6f05c769ff)]
+- 📝 : Update changelog [[d4f1a30](https://github.com/21r8390/flimtix.dev/commit/d4f1a3092f74ba179f93cfeff7a7e83669302180)]
 -  Bump ip from 2.0.0 to 2.0.1 in /frontend/nuxt-app [[481b9c6](https://github.com/21r8390/flimtix.dev/commit/481b9c6e7bc188073746df28c2fe2627c5173566)]
 -  Bump undici from 5.27.2 to 5.28.3 in /frontend/nuxt-app [[0a90fcb](https://github.com/21r8390/flimtix.dev/commit/0a90fcb73f34710bf0ec58611d18fb4c94feba9c)]
 -  Merge pull request [#156](https://github.com/21r8390/flimtix.dev/issues/156) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt/image-edge-1.0.0-28342020.fed0a3b [[5979a9e](https://github.com/21r8390/flimtix.dev/commit/5979a9e16dfe06f168c58af8ae7fdacf78179d26)]
