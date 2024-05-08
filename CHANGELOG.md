@@ -72,8 +72,12 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#194](https://github.com/21r8390/flimtix.dev/issues/194) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/tar-6.2.1 [[dfbc193](https://github.com/21r8390/flimtix.dev/commit/dfbc1939fd87f6a7493dc0329ef97d32367f927e)]
+-  Merge branch &#x27;main&#x27; into dependabot/npm_and_yarn/frontend/nuxt-app/tar-6.2.1 [[c4a542d](https://github.com/21r8390/flimtix.dev/commit/c4a542ddfb1aff0ffe3b5f4bd285daab7e56bfab)]
 -  Merge pull request [#197](https://github.com/21r8390/flimtix.dev/issues/197) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.12.0 [[bedf28e](https://github.com/21r8390/flimtix.dev/commit/bedf28e1ef95238c720eefa3014bd0aeae35f13d)]
 -  Merge pull request [#199](https://github.com/21r8390/flimtix.dev/issues/199) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-1.5.3 [[9eecbe3](https://github.com/21r8390/flimtix.dev/commit/9eecbe3781cfffac04ab47bc1d3416de500b4f1e)]
+-  Bump tar from 6.1.13 to 6.2.1 in /frontend/nuxt-app [[8df6ef1](https://github.com/21r8390/flimtix.dev/commit/8df6ef14f8049ce6e1fd80438bea7b334d559fdf)]
+- 📝 : Update changelog [[087da81](https://github.com/21r8390/flimtix.dev/commit/087da81fe707d34320d684659bb585c77e48310e)]
 -  Merge pull request [#191](https://github.com/21r8390/flimtix.dev/issues/191) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/vite-4.5.3 [[f0d15a6](https://github.com/21r8390/flimtix.dev/commit/f0d15a6dc97c1a2cff53fe0289d0a119b65e076a)]
 - 📝 : Update changelog [[254520a](https://github.com/21r8390/flimtix.dev/commit/254520aa7ee30deed8830102baf971155a78fbb5)]
 -  Bump vite from 4.5.2 to 4.5.3 in /frontend/nuxt-app [[994c071](https://github.com/21r8390/flimtix.dev/commit/994c071361d32dcb8fdf09f750b4f645060acc91)]
