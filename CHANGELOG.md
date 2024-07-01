@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.1.0"></a>
-## 1.1.0 (2024-05-13)
+## 1.1.0 (2024-07-01)
 
 ### Added
 
@@ -9,6 +9,7 @@
 
 ### Changed
 
+- ⬆️ : Bump nuxt from 3.8.2 to 3.12.2 in /frontend/nuxt-app [[ed1e1c3](https://github.com/21r8390/flimtix.dev/commit/ed1e1c3fa4cee3753aaea1f409aba9c6ab7a0bb6)]
 - ⬆️ : Bump vitest from 1.5.3 to 1.6.0 in /frontend/nuxt-app [[9d79c2e](https://github.com/21r8390/flimtix.dev/commit/9d79c2ef5fa4a3e7ad4fed9c984382c2ebf050a3)]
 - ⬆️ : Bump vitest from 1.3.1 to 1.5.3 in /frontend/nuxt-app [[d10ef80](https://github.com/21r8390/flimtix.dev/commit/d10ef80ba23bd0c512525a0ded487d28b51b0464)]
 - ⬆️ : Bump @nuxtjs/tailwindcss in /frontend/nuxt-app [[9002d3c](https://github.com/21r8390/flimtix.dev/commit/9002d3c758f51d2ef8a50cb4af541e175e777864)]
@@ -73,7 +74,9 @@
 
 ### Miscellaneous
 
+-  Merge pull request [#206](https://github.com/21r8390/flimtix.dev/issues/206) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxt-3.12.2 [[6b4c813](https://github.com/21r8390/flimtix.dev/commit/6b4c813bc026b4043ee71a7606641f9d27f3cda1)]
 -  Merge pull request [#202](https://github.com/21r8390/flimtix.dev/issues/202) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/vitest-1.6.0 [[c4097ea](https://github.com/21r8390/flimtix.dev/commit/c4097eac11649f28d22af8e079092834c6fb2475)]
+- 📝 : Update changelog [[578d5da](https://github.com/21r8390/flimtix.dev/commit/578d5daa4dfe22241167fa36ec8a129fafe624c0)]
 -  Merge pull request [#194](https://github.com/21r8390/flimtix.dev/issues/194) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/tar-6.2.1 [[dfbc193](https://github.com/21r8390/flimtix.dev/commit/dfbc1939fd87f6a7493dc0329ef97d32367f927e)]
 -  Merge branch &#x27;main&#x27; into dependabot/npm_and_yarn/frontend/nuxt-app/tar-6.2.1 [[c4a542d](https://github.com/21r8390/flimtix.dev/commit/c4a542ddfb1aff0ffe3b5f4bd285daab7e56bfab)]
 -  Merge pull request [#197](https://github.com/21r8390/flimtix.dev/issues/197) from 21r8390/dependabot/npm_and_yarn/frontend/nuxt-app/main/nuxtjs/tailwindcss-6.12.0 [[bedf28e](https://github.com/21r8390/flimtix.dev/commit/bedf28e1ef95238c720eefa3014bd0aeae35f13d)]
