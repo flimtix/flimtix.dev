@@ -25,6 +25,6 @@
 		"vitest": "^1.6.0"
 	},
 	"dependencies": {
-		"@nuxtjs/robots": "^3.0.0"
+		"@nuxtjs/robots": "^4.1.7"
 	}
 }
